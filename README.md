@@ -27,10 +27,9 @@ Your default browser should launch a new tab displaying the movie trailer websit
 
 * <https://discussions.udacity.com/c/nd000-stage-3-create-a-movie-website>
 * <http://www.w3schools.com/html/html_css.asp>
-* <https://docs.python.org/2/reference/datamodel.html>
-* <https://www.python.org/dev/peps/pep-0257/#multi-line-docstrings>
+* <https://www.devmedia.com.br/codigo-para-background-html-e-css/37206>
 * <http://pep8online.com/>
 
-#License
+# License
 
 This content of repository is licenced under  © 2011–2016 Udacity, Inc.
