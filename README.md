@@ -1,11 +1,11 @@
 # Movie Trailer Website
 
-...The Movie Trailer Website project consists of server-side code to store a list of movies titles, along with its respective images and trailer links and movie trailer website. The data should be served as a web page allowing visitors to review the movies and watch the trailers.
+Movie trailer website project, part of the Udacity Full Stack Web Developer Nanodegree. In this project, you can play trailer after click on movie poster.
 
 # Installation
 
-* for Linux users: ```apt-get install python2.7 ```
-* for Windows and MAC users: <https://www.python.org/downloads/>
+It was installed python 3.7 after download anaconda in this link below:
+<https://www.anaconda.com/download/>
 
 # Project files
 
@@ -32,4 +32,4 @@ Your default browser should launch a new tab displaying the movie trailer websit
 
 # License
 
-This content of repository is licenced under  © 2011–2016 Udacity, Inc.
+This content of repository is licenced under  © 2011–2018 Udacity, Inc.
